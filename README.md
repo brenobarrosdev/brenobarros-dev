@@ -1,3 +1,3 @@
 My portfolio, with my projects, contacts and addresses.
 
-# brenobarros-dev
+brenobarros.dev@gmail.com
